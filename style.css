@@ -1,0 +1,25 @@
+.content-wrapper{
+    max-width: 1024px;
+    margin: auto;
+    
+  }
+  header{
+      display: flex;
+      justify-content: space-between;
+
+  }
+  header h1{
+color: #0366d6;
+align-self: flex-end;
+margin: 0;
+  }
+  section{
+      text-align: justify;
+  }
+section h2{
+   color: #0366d6; 
+}
+footer p{
+    text-align: center;
+    font-size: 0.8rem;
+}
